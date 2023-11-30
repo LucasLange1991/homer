@@ -1,0 +1,23 @@
+{
+    "be_Mustertyp":
+    {
+      "test_key":["testbegriff_7", "testbegriff_8"]
+    },
+    "be_Status-Felder": "",
+    "be_Parteien": "",
+    "be_Fahrzeug": "",
+	  "be_Prozessuales": "",
+    "be_Ansprueche": "",
+    "be_Rueckruf/SW-Update": "",
+    "be_Erwerb": "",
+    "be_Darlehen": "",
+    "be_Weiterveraeusserung": "",
+    "be_Leasing": "",
+    "be_Antraege": "",
+    "be_RA-Kosten": "",
+    "be_Vortrag/Bezugnahme/Ruegen Klaeger": "",
+    "be_Sonderfaelle / Einzelkaempfer": "",
+    "be_Individuelle Kanzleimusterpunkte": "",
+    "be_Standart-Muster Individuell": "",
+    "be_FSM-Muster": ""
+}

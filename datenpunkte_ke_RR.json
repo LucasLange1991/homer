@@ -1,0 +1,23 @@
+{
+    "Status-Felder":
+    {
+        "test_key":["testbegriff_7", "testbegriff_8"]
+    },
+    "Mustertyp":"",
+    "Fahrzeug":"",
+    "Rueckruf":"",
+    "SW-Update":"",
+    "Prozessuales":"",
+    "Klaeger":"",
+    "Klageantraege":"",
+    "Erwerb":"",
+    "Darlehen":"",
+    "Leasing":"",
+    "Weiterveraeusserung":"",
+    "Vortraege/Bezuege - immer":"",
+    "Vortraege/Bezuege - WLTP":"",
+    "Vortraege/Bezuege - zusammengelegt":"",
+    "Sonderfaelle & Einzelkaempfer - immer":"",
+    "Sonderfaelle & Einzelkaempfer - s. Nutzf.":"",
+    "Sonderfaelle & Einzelkaempfer - zusammengelegt": ""
+}
